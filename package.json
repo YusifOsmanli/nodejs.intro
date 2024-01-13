@@ -1,0 +1,16 @@
+{
+  "name": "exspress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Muku mallim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.1"
+  }
+}
